@@ -1,0 +1,9 @@
+{
+  "name": "netflix-clone",
+  "version": "0.0.0",
+  "description": "Netflix-Clone",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
